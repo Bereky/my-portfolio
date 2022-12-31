@@ -3,7 +3,7 @@ import decentral from '../../asset/d3.png'
 import gfind from '../../asset/gfind.png'
 import shema from '../../asset/shema.png'
 import keyboard from '../../asset/keyboard.png'
-import todo from '../../asset/todo.png'
+import pwdgenerator from '../../asset/pgen.png'
 
 const projectConfig = [
     {
@@ -51,15 +51,15 @@ const projectConfig = [
         externalLink: 'https://eclectic-hamster-b6841d.netlify.app/'
     },
     {
-        name: 'Todo List',
-        imageSrc: todo,
+        name: 'Password Generator',
+        imageSrc: pwdgenerator,
         technologies: [
             {name: 'React', src: 'https://cdn-icons-png.flaticon.com/512/3334/3334886.png'},
             {name: 'Tailwind CSS', src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png'},
-            {name: 'Material UI', src: 'https://v4.mui.com/static/logo.png'},
+            {name: 'Redux', src: 'https://img.icons8.com/color/512/redux.png'},
         ],
-        sourceCode: 'https://github.com/Bereky/todo-list',
-        externalLink: 'https://todo-list-six-dun.vercel.app/'
+        sourceCode: 'https://github.com/Bereky/password-generator',
+        externalLink: 'https://generate-pwd.vercel.app/'
     },
     {
         name: 'Amharic Keyboard',
