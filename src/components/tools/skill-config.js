@@ -9,6 +9,7 @@ const skillConfig = {
             {name: 'Bootstrap', src: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg'},
             {name: 'SASS', src: 'https://cdn-icons-png.flaticon.com/512/5968/5968358.png'},
             {name: 'React', src: 'https://cdn-icons-png.flaticon.com/512/3334/3334886.png'},
+            {name: 'Redux', src: 'https://img.icons8.com/color/512/redux.png'},
             {name: 'TypeScript', src: 'https://cdn-icons-png.flaticon.com/512/5968/5968381.png'},
             {name: 'Tailwind CSS', src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png'},
             {name: 'Material UI', src: 'https://v4.mui.com/static/logo.png'},
@@ -22,6 +23,7 @@ const skillConfig = {
             {name: 'PHP', src: 'https://cdn-icons-png.flaticon.com/512/5968/5968332.png'},
             {name: 'MySQL', src: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png'},
             {name: 'MongoDB', src: 'https://www.svgrepo.com/show/331488/mongodb.svg'},
+            {name: 'Firebase', src: 'https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png'}
         ]
     },
     tools: {
