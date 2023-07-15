@@ -1,5 +1,5 @@
 import LaunchIcon from "@mui/icons-material/Launch";
-import CodeIcon from "@mui/icons-material/Code";
+import CodeIcon from "@mui/icons-material/GitHub";
 import Tooltip from "@mui/material/Tooltip";
 
 const ProjectCard = (props) => {
