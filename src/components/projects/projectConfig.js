@@ -26,8 +26,8 @@ const projectConfig = [
         src: "https://www.svgrepo.com/show/331488/mongodb.svg",
       },
     ],
-    sourceCode: "https://github.com/Bereky/dash_donation",
-    externalLink: "https://dash-donation.vercel.app/",
+    sourceCode: "https://github.com/Bereky",
+    externalLink: "https://three60fusion.onrender.com/",
   },
 
   {
@@ -47,8 +47,8 @@ const projectConfig = [
         src: "https://www.svgrepo.com/show/331488/mongodb.svg",
       },
     ],
-    sourceCode: "https://github.com/Bereky/dash_donation",
-    externalLink: "https://dash-donation.vercel.app/",
+    sourceCode: "https://github.com/Bereky/queue-ease",
+    externalLink: "https://queueease.onrender.com",
   },
 
   {
@@ -70,8 +70,8 @@ const projectConfig = [
         src: "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243967/ejs-icon-md.png",
       },
     ],
-    sourceCode: "https://github.com/Bereky/dash_donation",
-    externalLink: "https://dash-donation.vercel.app/",
+    sourceCode: "https://github.com/Bereky/chapa-payment-express",
+    externalLink: "https://github.com/Bereky",
   },
 
   {
