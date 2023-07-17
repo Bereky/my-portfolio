@@ -7,7 +7,7 @@ const experienceConfig = [
   {
     jobTitle: "Web Developer Intern",
     companyName: "CariKture India",
-    date: "(Oct 2022 - De 2022)",
+    date: "(Oct 2022 - Dec 2022)",
   },
   {
     jobTitle: "Web & Mobile Development Intern",
