@@ -27,7 +27,7 @@ const projectConfig = [
       },
     ],
     sourceCode: "https://github.com/Bereky",
-    externalLink: "https://three60fusion.onrender.com/",
+    externalLink: "https://three60-fusion.onrender.com/",
   },
 
   {
